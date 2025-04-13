@@ -63,13 +63,13 @@ Implement wall following to make the car drive autonomously around the Levine Ha
 
 ## V. Deliverables and Submission
 
-Deliverables 1 and 2 are to be done individually and Deliverable 3 in group as per your respective team allocation. Check your team allocation here : https://docs.google.com/spreadsheets/d/1Kx_6AzT0c4vWXpCim19qRhrQNDTCvQCWJ8yHXSqw4Uo/edit?usp=sharing .
+Deliverables 1 and 2 are to be done individually and Deliverable 3 in group as per your respective team allocation. Check your team allocation here : 
 
 **Deliverable 1**: After you're finished, update the entire skeleton package directory with your `wall_follow` package and directly download the package, compress it in zip format and rename the zip file as lab3_\<your last name\>_\<your team number\>. Submit the renamed zip file directly to Canvas.
 
 **Deliverable 2**: Make a screen cast of running your wall following node in the simulation. Include a link to the video on YouTube in **`SUBMISSION.md`**.
 
-**Deliverable 3 (tentative, as a team)**: Make a recording of the run on the actual car following the wall anc completing a lap on a closed loop trajectory formed by flexible ducts. 
+**Deliverable 3 (as a team)**: Make a recording of the run on the actual car following a wall. This can be done in the hallway outside of aims, or you can form your own track. Make sure to show at least one turn. 
 
 ## VI: Grading Rubric
 
