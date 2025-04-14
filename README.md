@@ -67,13 +67,17 @@ Deliverables 1 and 2 are to be done individually and Deliverable 3 in group as p
 
 **Deliverable 1**: After you're finished, update the entire skeleton package directory with your `wall_follow` package and directly download the package, compress it in zip format and rename the zip file as lab3_\<your last name\>_\<your team number\>. Submit the renamed zip file directly to Canvas.
 
-**Deliverable 2**: Make a screen cast of running your wall following node in the simulation. Include a link to the video on YouTube in **`SUBMISSION.md`**.
+**Deliverable 2**: Make a screen cast of running your wall following node in the simulation. If you are using the Levine hall map, you do not need to be able to cross the gap at the bottom of the map. Include a link to the video on YouTube in **`SUBMISSION.md`**.
 
 **Deliverable 3 (as a team)**: Make a recording of the run on the actual car following a wall. This can be done in the hallway outside of aims, or you can form your own track. Make sure to show at least one turn. 
 
 ## VI: Grading Rubric
 
 - Compilation: **10** Points
-- Implemented PID: **15** Points
-- Tuned PID: **5** Points
-- Video (Simulator + hardware): **15** Points
+- Implemented and tuned PID: **15** Points
+- Video in simulation: **10** points
+- Video on hardware: **10** points
+- PID is not well tuned (some swaying is fine, ask a TA if unsure): **-3** points
+- Submitted simulation video but crashes before reaching bottom of map: **-5** points
+- Submitted hardware video but doesn't show a turn: **-5** points 
+
